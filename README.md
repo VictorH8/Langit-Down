@@ -1,3 +1,3 @@
 # Langit-Down
 
-[site]{victorh8.github.io/Langit-Down}
+https://victorh8.github.io/Langit-Down/
